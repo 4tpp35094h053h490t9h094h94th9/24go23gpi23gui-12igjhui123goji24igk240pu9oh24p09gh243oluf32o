@@ -30,6 +30,7 @@ nav{
 }
 
 .logo {
+    margin-right: auto;
     font-size: 1.5rem;
     font-weight: 700;
 
@@ -162,7 +163,7 @@ button:hover{
 }
 .alert-notification{
     display: flex;
-    background-color: rgb(133, 56, 56);
+    background-color: #6699FF;
     padding: 0px 0px;
     width: 93%;
     margin-top: 15px;
